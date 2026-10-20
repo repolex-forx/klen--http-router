@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/http-router/commit/ab775319ef7933391cf9ff524bb9b105e1fc47be",
       "git:hexsha": "ab775319ef7933391cf9ff524bb9b105e1fc47be",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "10.1.0"
     },
     {
