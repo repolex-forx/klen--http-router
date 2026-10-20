@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "http-router",
+  "versions": [
+    {
+      "commit": "ab775319ef7933391cf9ff524bb9b105e1fc47be",
+      "tag": "10.1.0",
+      "parsed_at": "2026-10-20T21:09:04.699425+00:00"
+    }
+  ]
+}
